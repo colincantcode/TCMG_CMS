@@ -7,7 +7,7 @@ You have to already have HYDE installed. If you don't, go here: github.com/hyde/
 4. Run "hyde gen" to generate the website.
 5. Run "hyde serve" to host the website at http://localhost:8080/
 6. Check in a web browser to see if your changes worked.
-7. You can continue to making changes to files in the Content & Layout folders. Just re-run the hyde gen, and hyde serve commands each time you need to test.
+7. You can continue making changes to files in the Content & Layout folders. Just re-run the hyde gen, and hyde serve commands each time you need to test.
 
 * Next, you can submit the changes you've made by pushing them to github. If you don't know how, download github desktop, and follow instructions here https://services.github.com/on-demand/github-desktop/push-with-github-desktop. Or we can just setup a google drive if that's easier.
 
