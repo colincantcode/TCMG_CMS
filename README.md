@@ -6,7 +6,7 @@ You have to already have HYDE installed. If you don't, go here: github.com/hyde/
 3. Open a powershell/cmd window in the CMS directory.
 4. Run "hyde gen" to generate the website.
 5. Run "hyde serve" to host the website at http://localhost:8080/
-To test changes, run the "hyde gen" command from the CMS directory.
+6. Check in a web browser to see what your changes did.
 
 * Next, submit the changes you've made by pushing them to github. If you don't know how, download github desktop, and follow instructions here https://services.github.com/on-demand/github-desktop/push-with-github-desktop. Or we can just setup a google drive if that's easier.
 
